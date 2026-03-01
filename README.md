@@ -23,15 +23,21 @@
 - **知乎**: [二冰](https://www.zhihu.com/people/congjiwang)
 - **公众号**: 丛集黑科技
 
+![](https://img.twoice.fun:666/i/2025/03/28/11gongzhonghao-2-2.png)
+
 ### 特别感谢
 
 🍒 **NAS圈大佬：可爱的小Cherry**（二冰的 NAS 引路人，大家多多关注）
+
+![](https://pic.fengsutb.com/pic/2025-04-18_10-01-05.png)
 
 ### 最新动态
 
 最近在研究 **n8n** 工作流自动化，探索优秀 Docker 项目与 n8n 的结合落地。
 
 📄 [n8n 实战落地项目文档](https://ai.feishu.cn/docx/Crzfdb5shoYN0DxYPSxc21CNnyh?from=from_copylink)
+
+![](https://pic.fengsutb.com/pic/2615105922.png)
 
 感兴趣的兄弟可以一起研究哈！
 
