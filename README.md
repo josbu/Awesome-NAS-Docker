@@ -7,7 +7,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 **垃圾佬俱乐部，全网收集好玩的 Docker 项目**
+
 生命不息！折腾不止！
+
 </div>
 
 ---
@@ -23,11 +25,9 @@
 
 ### 最新动态
 
-最近在研究 **n8n** 工作流自动化，探索优秀 Docker 项目与 n8n 的结合落地。
+最近在研究 **n8n** 工作流自动化，探索优秀 Docker 项目与 n8n 的结合落地。感兴趣的兄弟可以一起研究哈！
 
 📄 [n8n 实战落地项目文档](https://ai.feishu.cn/docx/Crzfdb5shoYN0DxYPSxc21CNnyh?from=from_copylink)
-
-感兴趣的兄弟可以一起研究哈！
 
 ---
 
