@@ -1,12 +1,16 @@
-# 4.5 流媒体服务
+# 🎵 视频音频
 
 [← 返回主页](../README.md)
 
 ---
 
-#### 4.5 流媒体服务
+视频转码、音乐管理、播客、流媒体传输
 
-| 项目标题          | 项目简介                         | 项目地址                                                     | 教程                                                         | star                                                         | 最近更新                                                     |
+---
+
+| 项目标题 | 项目简介 | 项目地址 | 教程 | Star | 最近更新 |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | ----------------- | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | AzuraCast         | 用Docker搭建可多端收听的私人电台 | [点我查看](https://github.com/AzuraCast/AzuraCast)           | [查看教程](https://zhuanlan.zhihu.com/p/1910076079730845276) | ![Star](https://img.shields.io/github/stars/AzuraCast/AzuraCast?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/AzuraCast/AzuraCast?label) |
 | iptv-m3u-maker    | 自动巡检直播源并生成播放列表     | [点我查看](https://github.com/EvilCult/iptv-m3u-maker)       | [查看教程](https://zhuanlan.zhihu.com/p/1905005513734873599) | ![Star](https://img.shields.io/github/stars/EvilCult/iptv-m3u-maker?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/EvilCult/iptv-m3u-maker?label) |
@@ -30,5 +34,3 @@
 | StreamDock        | 把浏览器变网络电视看全球直播     | [点我查看](https://github.com/limmer55/streamdock)           | [查看教程](https://zhuanlan.zhihu.com/p/1905032640442135106) | ![Star](https://img.shields.io/github/stars/limmer55/streamdock?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/limmer55/streamdock?label) |
 | Nettu Meet        | 开源在线辅导平台，适配教学场景   | [点我查看](https://github.com/fmeringdal/nettu-meet)         | [查看教程](https://zhuanlan.zhihu.com/p/1910081208169235983) | ![Star](https://img.shields.io/github/stars/fmeringdal/nettu-meet?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/fmeringdal/nettu-meet?label) |
 | PawTunes          | 一键搭建电台，多格式多频道播放   | [点我查看](https://github.com/Jackysi/PawTunes)              | [查看教程](https://zhuanlan.zhihu.com/p/1910077629110911951) | ![Star](https://img.shields.io/github/stars/Jackysi/PawTunes?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/Jackysi/PawTunes?label) |
-
-### 05、运维监控体系

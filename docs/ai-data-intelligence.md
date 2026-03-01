@@ -1,12 +1,15 @@
-# 1.1 数据处理支持
+# 📊 数据智能
 
 [← 返回主页](../README.md)
 
 ---
 
-#### 1.1 数据处理支持
+数据处理、数据库管理、BI分析、数据可视化
 
-| 项目标题   | 项目简介                         | 项目地址                                                 | 教程                                                         | star                                                         | 最近更新                                                     |
+---
+
+| 项目标题 | 项目简介 | 项目地址 | 教程 | Star | 最近更新 |
+| --- | --- | --- | --- | --- | --- |
 | ---------- | -------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Adminer    | 单容器管理九大主流数据库         | [点我查看](https://github.com/vrana/adminer)             | [查看教程](https://zhuanlan.zhihu.com/p/1890354901525186047) | ![Star](https://img.shields.io/github/stars/vrana/adminer?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/vrana/adminer?label) |
 | DbGate     | 支持多数据库管理的跨平台工具     | [点我查看](https://github.com/dbgate/dbgate)             | [查看教程](https://zhuanlan.zhihu.com/p/1889267702557806937) | ![Star](https://img.shields.io/github/stars/dbgate/dbgate?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/dbgate/dbgate?label) |
@@ -19,3 +22,9 @@
 | Directus   | 实时API生成与数据库可视化平台    | [点我查看](https://github.com/directus/directus)         | [查看教程](https://zhuanlan.zhihu.com/p/32091002181)         | ![Star](https://img.shields.io/github/stars/directus/directus?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/directus/directus?label) |
 | zjson      | 智能处理JSON，有多项实用功能     | [点我查看](https://github.com/CN-Tower/zjson)            | [查看教程](https://zhuanlan.zhihu.com/p/32090232889)         | ![Star](https://img.shields.io/github/stars/CN-Tower/zjson?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/CN-Tower/zjson?label) |
 | Baserow    | 零代码创建管理关系型数据库       | [点我查看](https://gitlab.com/bramw/baserow)             | [查看教程](https://zhuanlan.zhihu.com/p/32333105764)         |                                                              |                                                              |
+| -------------- | ------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------- | ---- | -------- |
+| MT Photos      | 相册管理，支持搜图、分类、共享 |                                                            | [查看教程](https://zhuanlan.zhihu.com/p/29162667081) |      |          |
+| PhotoStructure | 智能整理照片，支持多格式访问   | [项目地址](https://hub.docker.com/r/photostructure/server) | [查看教程](https://zhuanlan.zhihu.com/p/30688995020) |      |          |
+| --------- | ------------------------------ | ------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Doku      | 可视化分析管理Docker存储       | [项目地址](https://github.com/amerkurev/doku)    | [查看教程](https://zhuanlan.zhihu.com/p/31405212699) | ![Star](https://img.shields.io/github/stars/amerkurev/doku?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/amerkurev/doku?label) |
+| Web-Check | 获取网站核心数据并生成分析报告 | [项目地址](https://github.com/Lissy93/web-check) | [查看教程](https://zhuanlan.zhihu.com/p/31274835903) | ![Star](https://img.shields.io/github/stars/Lissy93/web-check?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/Lissy93/web-check?label) |
