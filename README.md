@@ -1,17 +1,12 @@
 # Awesome-NAS-Docker 🚀
 
 <div align="center">
-
 [![GitHub Stars](https://img.shields.io/github/stars/TWO-ICE/Awesome-NAS-Docker?style=flat-square)](https://github.com/TWO-ICE/Awesome-NAS-Docker/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/TWO-ICE/Awesome-NAS-Docker?style=flat-square)](https://github.com/TWO-ICE/Awesome-NAS-Docker/network/members)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 **垃圾佬俱乐部，全网收集好玩的 Docker 项目**
-
-覆盖 AI、开发、数据管理、家庭娱乐等场景，让 NAS 变身全能生产力工具！
-
 生命不息！折腾不止！
-
 </div>
 
 ---
@@ -22,14 +17,7 @@
 
 - **知乎**: [二冰](https://www.zhihu.com/people/congjiwang)
 - **公众号**: 丛集黑科技
-
 ![](https://img.twoice.fun:666/i/2025/03/28/11gongzhonghao-2-2.png)
-
-### 特别感谢
-
-🍒 **NAS圈大佬：可爱的小Cherry**（二冰的 NAS 引路人，大家多多关注）
-
-![](https://pic.fengsutb.com/pic/2025-04-18_10-01-05.png)
 
 ### 最新动态
 
@@ -38,7 +26,6 @@
 📄 [n8n 实战落地项目文档](https://ai.feishu.cn/docx/Crzfdb5shoYN0DxYPSxc21CNnyh?from=from_copylink)
 
 ![](https://pic.fengsutb.com/pic/2615105922.png)
-
 感兴趣的兄弟可以一起研究哈！
 
 ---
@@ -184,3 +171,9 @@
 Made with ❤️ by [TWO-ICE](https://github.com/TWO-ICE)
 
 </div>
+
+### 特别感谢
+
+🍒 **NAS圈大佬：可爱的小Cherry**（二冰的 NAS 引路人，大家多多关注）
+
+![](https://pic.fengsutb.com/pic/2025-04-18_10-01-05.png)
