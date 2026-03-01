@@ -168,9 +168,3 @@
 Made with ❤️ by [TWO-ICE](https://github.com/TWO-ICE)
 
 </div>
-
-### 特别感谢
-
-🍒 **NAS圈大佬：可爱的小Cherry**（二冰的 NAS 引路人，大家多多关注）
-
-![](https://pic.fengsutb.com/pic/2025-04-18_10-01-05.png)
