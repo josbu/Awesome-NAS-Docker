@@ -27,21 +27,16 @@
 
 📄 [n8n 实战落地项目文档](https://ai.feishu.cn/docx/Crzfdb5shoYN0DxYPSxc21CNnyh?from=from_copylink)
 
-![](https://pic.fengsutb.com/pic/2615105922.png)
 感兴趣的兄弟可以一起研究哈！
 
 ---
 
 ## 🌟 置顶推荐
 
-好兄弟完全按照我的需求开发的两个项目，已经在用了，很好用，推荐！
-
 | 项目 | 简介 | 链接 |
 |------|------|------|
 | **NotionNav** | 基于 Notion 的导航站 | [项目](https://github.com/qazzxxx/NotionNav) · [教程](https://blog.qazz.site/docker/21a69253-5678-8042-b6eb-ed1b87c4c7e0) |
 | **cloudimgs** | Docker 部署的图床 | [项目](https://github.com/qazzxxx/cloudimgs) · [教程](https://blog.qazz.site/docker/22869253-5678-80b8-8c68-ea7a86a73889) |
-
-有啥需求可以直接跟他提，让他给优化 👍
 
 ---
 
