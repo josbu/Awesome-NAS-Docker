@@ -8,6 +8,8 @@
 
 **垃圾佬俱乐部，全网收集好玩的 Docker 项目**
 
+**📦 收录 520+ 精选项目，持续更新中**
+
 生命不息！折腾不止！
 
 </div>
@@ -42,47 +44,38 @@
 
 ## 📚 项目分类
 
-### 🤖 AI & 数据智能
+### 🤖 AI & 数据智能 (135个)
 
-- [AI 应用工具](./docs/ai-applications.md) - 图像识别、翻译、知识库、大模型应用
-- [数据智能](./docs/ai-data-intelligence.md) - 数据处理、数据库管理、BI分析
-- [AI 部署与优化](./docs/ai-deployment.md) - AI服务部署、开发环境配置
+- [AI 应用工具](./docs/ai-applications.md) (70个) - 图像识别、翻译、知识库、大模型应用
+- [数据智能](./docs/ai-data-intelligence.md) (15个) - 数据处理、数据库管理、BI分析
+- [AI 部署与优化](./docs/ai-deployment.md) (50个) - AI服务部署、开发环境配置
 
-### 🛠️ 开发 & 运维
+### 🛠️ 开发 & 运维 (145个)
 
-- [开发与运维](./docs/dev-ops.md) - 开发工具、CI/CD、容器管理、监控告警
-- [基础设施](./docs/infrastructure.md) - 存储方案、网络服务、消息队列
+- [开发与运维](./docs/dev-ops.md) (83个) - 开发工具、CI/CD、容器管理、监控告警
+- [基础设施](./docs/infrastructure.md) (62个) - 存储方案、网络服务、消息队列
 
-### 🎨 多媒体 & 内容
+### 🎨 多媒体 & 内容 (69个)
 
-- [视频音频](./docs/media-audio-video.md) - 视频转码、音乐管理、播客、流媒体
-- [图像相册](./docs/media-image.md) - 图片管理、AI相册、照片备份
-- [流媒体服务](./docs/media-streaming.md) - 视频平台、直播工具、媒体服务器
+- [视频音频](./docs/media-audio-video.md) (29个) - 视频转码、音乐管理、播客、流媒体
+- [图像相册](./docs/media-image.md) (18个) - 图片管理、AI相册、照片备份
+- [流媒体服务](./docs/media-streaming.md) (22个) - 视频平台、直播工具、媒体服务器
 
-### 💼 协作 & 效率
+### 💼 协作 & 效率 (125个)
 
-- [团队协作](./docs/collaboration.md) - 即时通讯、项目管理、文档协作、CRM
-- [个人效率](./docs/productivity.md) - 文件管理、RSS阅读、稍后读、个人助手
-- [办公工具](./docs/office-tools.md) - 表单系统、笔记工具、办公辅助
-- [数据协作](./docs/data-collaboration.md) - 知识库、文档管理、团队共享
+- [团队协作](./docs/collaboration.md) (28个) - 即时通讯、项目管理、文档协作、CRM
+- [个人效率](./docs/productivity.md) (88个) - 文件管理、RSS阅读、稍后读、个人助手
+- [办公工具](./docs/office-tools.md) (7个) - 表单系统、笔记工具、办公辅助
+- [数据协作](./docs/data-collaboration.md) (2个) - 知识库、文档管理、团队共享
 
-### 🏠 家庭 & 生活
+### 🏠 家庭 & 生活 (35个)
 
-- [智能家居](./docs/smart-home.md) - Home Assistant、健康追踪、生活服务
-- [娱乐影音](./docs/home-entertainment.md) - 影音娱乐、游戏、媒体中心
+- [智能家居](./docs/smart-home.md) (14个) - Home Assistant、健康追踪、生活服务
+- [娱乐影音](./docs/home-entertainment.md) (21个) - 影音娱乐、游戏、媒体中心
 
-### 🔒 安全
+### 🔒 安全 (11个)
 
-- [安全工具](./docs/security.md) - 渗透测试、加密工具、VPN、隐私保护
-
----
-
-## 📊 项目统计
-
-- **总项目数**: 900+
-- **主分类**: 6 大类
-- **子分类**: 15 个
-- **持续更新中**...
+- [安全工具](./docs/security.md) (11个) - 渗透测试、加密工具、VPN、隐私保护
 
 ---
 
